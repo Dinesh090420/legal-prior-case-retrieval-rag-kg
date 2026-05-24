@@ -27,6 +27,14 @@ The system compares structural retrieval methods with semantic retrieval methods
 
 ---
 
+## 📌 Key Highlights
+
+- Hybrid Legal Retrieval System
+- Knowledge Graph + RAG Integration
+- Neural Re-ranking Pipeline
+- FAISS-based Semantic Search
+- Legal NLP Workflow
+
 # ✨ Features
 
 - Legal prior case retrieval system
@@ -75,9 +83,12 @@ Dataset contains:
 - Judicial text data
 - Legal entities such as statutes, judges, and courts
 
+Full dataset is not included due to GitHub file size limitations.
 ---
 
 # 🔄 Project Architecture / Workflow
+
+![Workflow](screenshots/kg_visual.png)
 
 The system combines structural graph relationships and semantic retrieval techniques.
 
@@ -252,8 +263,8 @@ The results show that semantic retrieval methods outperform purely structural me
 B.Tech Artificial Intelligence  
 National Institute of Technology Karnataka (NITK), Surathkal
 
-- GitHub: Add GitHub Link
-- LinkedIn: Add LinkedIn Link
+- GitHub: [Add GitHub Link](https://github.com/Dinesh090420)
+- LinkedIn: www.linkedin.com/in/garbhapu-dinesh-140bb6373
 
 ---
 
