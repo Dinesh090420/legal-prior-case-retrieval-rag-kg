@@ -263,7 +263,7 @@ The results show that semantic retrieval methods outperform purely structural me
 B.Tech Artificial Intelligence  
 National Institute of Technology Karnataka (NITK), Surathkal
 
-- GitHub: [Add GitHub Link](https://github.com/Dinesh090420)
+- GitHub: (https://github.com/Dinesh090420)
 - LinkedIn: www.linkedin.com/in/garbhapu-dinesh-140bb6373
 
 ---
