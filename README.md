@@ -88,8 +88,6 @@ Full dataset is not included due to GitHub file size limitations.
 
 # 🔄 Project Architecture / Workflow
 
-![Workflow](screenshots/kg_visual.png)
-
 The system combines structural graph relationships and semantic retrieval techniques.
 
 ## Workflow
